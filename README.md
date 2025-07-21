@@ -47,8 +47,6 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 
 ## Contact 
 
-Feel free to contact me if you have any questions or would like to collaborate on future projects! 
-
 Email: ngall25@wgu.edu
 
 LinkedIn: [www.linkedin.com/in/nicoleagallo](https://www.linkedin.com/in/nicolegallo/)
