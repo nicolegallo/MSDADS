@@ -32,7 +32,7 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 
 | Class                                           | Tasks                     | Videos                    | Status      | Date Completed |
 |-------------------------------------------------|---------------------------|---------------------------|-------------|----------------|
-| [Data Analytics Journey](D596%20-%20Data%20Analytics%20Journey/README.md)                          | [Task 1](D596%20-%20Data%20Analytics%20Journey/D596_Task1), [Task 2](./Data%20Analytics%20Journey/D596%20Task%202.pdf)    | NA                        | Completed   | 04/28/2025       |
+| [Data Analytics Journey](D596%20-%20Data%20Analytics%20Journey/README.md)                          | [Task 1](D596%20-%20Data%20Analytics%20Journey/D596_Task1), [Task 2](D596%20-%20Data%20Analytics%20Journey/D596_Task2)    | NA                        | Completed   | 04/28/2025       |
 | [Data Management](Data%20Management/README.md)                                 | [Task 1](HOLD.pdf), [Task 2](HOLD.pdf)            | [Video 1](HOLD), [Video 2](HOLD)          | Completed   | 06/13/2025     |
 | [Analytics Programming](Analytics%20Programming/README.md)                           | [Task 1](HOLD.pdf), [Task 2](HOLD), [Task 3](HOLD.pdf)    | NA                        | Completed   | 06/23/2025      |
 | [Data Preparation and Exploration](Data%20Preparation%20and%20Exploration/README.md)                |     |  | In Progress | 07/15/2025     |
