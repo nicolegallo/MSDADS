@@ -1,17 +1,17 @@
-# WGU MSDA Projects and Assignments
+# MSDA Projects and Assignments
 
-Welcome to my repository for projects completed during the Master of Science in Data Analytics, Data Science (MSDA-DS) program at Western Governors University (WGU). This repository showcases my work across various courses, where I utilize Python, SQL, Tableau and other data analytics tools to solve real-world problems.
+Welcome to my repository for projects completed during the Master of Science in Data Analytics, Data Science (MSDA-DS) program. This repository showcases my work across various courses, where I utilize Python, SQL, Tableau and other data analytics tools to solve real-world problems.
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
-- [WGU MSDA Overview](#wgu-msda-overview)
+- [MSDA Overview](#wgu-msda-overview)
 - [Contact](#contact)
 
 ## Introduction
 
-I entered the Master of Science in Data Analytics (MSDA) program at Western Governors University (WGU) in May 2025, with an undegraduate degree from Purdue University in Economics. My prior experience consists of 7 years in SEO e-commerce with minimal knowledge in data analysis. My goal is to graduate by end of October 2025.
+I entered the Master of Science in Data Analytics (MSDA) program in May 2025, with an undegraduate degree from Purdue University in Economics. My prior experience consists of 7 years in SEO e-commerce with minimal knowledge in data analysis. My goal is to graduate by end of October 2025.
 
 Throughout this program, I have built a strong foundation in data analysis, learning to use tools and techniques such as Python, SQL, data visualization, and machine learning. This repository showcases the projects I have completed during my journey, reflecting my growth and the skills I have acquired.
 
@@ -28,7 +28,7 @@ Throughout this program, I have built a strong foundation in data analysis, lear
 - pgAdmin: For managing PostgreSQL databases with a graphical interface.
 
 
-## WGU MSDA Overview
+## MSDA Overview
 
 | Class                                           | Tasks                     | Videos                    | Status      | Date Completed |
 |-------------------------------------------------|---------------------------|---------------------------|-------------|----------------|
