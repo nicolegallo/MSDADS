@@ -1,6 +1,0 @@
-NGallo
-D602 Task 2
-
-Repository (GitLab):
-https://gitlab.com/wgu-gitlab-environment/student-repos/ngall25/d602-deployment-task-2/-/tree/main
-Branch: main
